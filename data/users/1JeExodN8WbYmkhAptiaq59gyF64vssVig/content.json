@@ -1,0 +1,17 @@
+{
+ "address": "186THqMWuptrZxq1rxzpguAivK3Bs6z84o",
+ "cert_auth_type": "web",
+ "cert_sign": "G91TmdPr0gldauL2sYH7FtbGLsCGWbJedrovqbZQ1jWa5P/HL9VRa0ODobja2ZWhvhPruWR5t4U0GXtoL91ruI4=",
+ "cert_user_id": "hackdeam@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f2da9f39ea39a0c0e1f9b73a350a3d5c3247a5d278fe03ea0b0061b08d4ec207",
+   "size": 521
+  }
+ },
+ "inner_path": "data/users/1JeExodN8WbYmkhAptiaq59gyF64vssVig/content.json",
+ "modified": 1474995649.164,
+ "signs": {
+  "1JeExodN8WbYmkhAptiaq59gyF64vssVig": "G7jlq9+2XLnx1S+68WsQKCHB8tn13dPgyqymTWagnO8QEdjLxSP2Ys1HNof7Auw9g1Zj518yLrlVKINnElW48zU="
+ }
+}

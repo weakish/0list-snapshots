@@ -1,0 +1,17 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Random blog",
+			"body": "http://127.0.0.1:43110/1FvGJW3THi9FD2v8JQeuaCiG5W5yvPUDWA/",
+			"added": 1472919663
+		}
+	],
+	"topic_vote": {
+		"1_1JecQYorYpL9F9vArLj13LKvc3v3iSdDHA": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

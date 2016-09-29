@@ -1,0 +1,17 @@
+{
+ "address": "186THqMWuptrZxq1rxzpguAivK3Bs6z84o",
+ "cert_auth_type": "web",
+ "cert_sign": "Gz03IWHWOmAqScQj23Lo/VvJPBgM4JgVRq5Ay8u0HV5G89yZJAqZBzevJsU3RXL/JiE6CEQLCXtFQRF0MPVF4rE=",
+ "cert_user_id": "pedoblocker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "11fa40dadb78ca4ce4034cd17e0cd674169359457aa3e6d0f8f12dd580ec74dd",
+   "size": 461
+  }
+ },
+ "inner_path": "data/users/1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B/content.json",
+ "modified": 1471645385.327396,
+ "signs": {
+  "1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B": "HAcf3jwhODN1YYj3xOVrrV4MGBV0ua0NmfXNBV+rbs66gLeTUkT+vX5+1vQIVSXauY/VKa/CpHuDfs5wFj7wZfg="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "186THqMWuptrZxq1rxzpguAivK3Bs6z84o",
+ "cert_auth_type": "web",
+ "cert_sign": "HMQZqPt78w6enwoPWhREb2o/EE2CeFqSDsjUJGdeLXvPqKgjALxh9BQrDJB8djQyIv1NVgcwWj+GzqXxQtRh1Zk=",
+ "cert_user_id": "thekiller66@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a0fb50c2404678c6e4d43fb99bdb9c115446914437c28c5c60366d119e8d6e82",
+   "size": 897
+  }
+ },
+ "inner_path": "data/users/18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx/content.json",
+ "modified": 1474511075.532,
+ "signs": {
+  "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx": "G8+KCJ49vovlr50bY4ZGBp6aVmMwBgqoUaZU8VG1V4/5wyo2zbiarxr+U8T+zPNAxFuthVXQqNV2MPAehL8BI6k="
+ }
+}

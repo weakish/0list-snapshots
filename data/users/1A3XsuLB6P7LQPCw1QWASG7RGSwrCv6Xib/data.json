@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Green Buddhism: A Programmer's Religion",
+			"body": "http://127.0.0.1:43110/178s29ameX271Vjj6f6vGXMNNtLKCmD4tj",
+			"added": 1474866060
+		}
+	],
+	"topic_vote": {
+		"1_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 1,
+				"body": "> [limealade](#comment_1_16rGb1CnHF4P1FModLMe12JiAXs8joRd7W): is there a link\n\nWhat kind of link are you looking for?\nI can add more references if that is what you mean.\n\nOtherwise the zeronet link is http://127.0.0.1:43110/178s29ameX271Vjj6f6vGXMNNtLKCmD4tj",
+				"added": 1474986786
+			}
+		]
+	},
+	"comment_vote": {}
+}

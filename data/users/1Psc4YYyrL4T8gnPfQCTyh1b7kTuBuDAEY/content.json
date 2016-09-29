@@ -1,0 +1,17 @@
+{
+ "address": "186THqMWuptrZxq1rxzpguAivK3Bs6z84o",
+ "cert_auth_type": "web",
+ "cert_sign": "G99feTx307Iij7tbDW0UfcNi1pjUG9C9LYEClUlBtLfJ31sAAxdXTCNoEkq4pyHHK8ub8QgZ/JzddTGc9gREw/Q=",
+ "cert_user_id": "1984traveller@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0b60300a146fab79e1865cf30512c8d748023fe4411c01d0909acbc1dadb8cbc",
+   "size": 663
+  }
+ },
+ "inner_path": "data/users/1Psc4YYyrL4T8gnPfQCTyh1b7kTuBuDAEY/content.json",
+ "modified": 1475132507.238583,
+ "signs": {
+  "1Psc4YYyrL4T8gnPfQCTyh1b7kTuBuDAEY": "HJyPcoxmp1nmOxJgJnmbg5rO++CqLhCFQnf7sfHVlZXon0BCyI6IAC74+XHkPXdWPzj6ySKYOM2k5tSEGdUTZFU="
+ }
+}

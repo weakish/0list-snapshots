@@ -1,0 +1,17 @@
+{
+ "address": "186THqMWuptrZxq1rxzpguAivK3Bs6z84o",
+ "cert_auth_type": "web",
+ "cert_sign": "HEFffFJY50HaVYxjaoeCfz1YMa2ysmsqlHgMvmYmK3wvjodHLlDxD++LwFKwddF5Yqm30+DeMLsO8SbwekaJ0+o=",
+ "cert_user_id": "sainthubertus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "45272653e5ddba17dace01f05600f54454caedf2acb3971035d63f6262365fcc",
+   "size": 251
+  }
+ },
+ "inner_path": "data/users/1LFZtNVd7PtbHn8Q7562xA66rFdbAVcFhb/content.json",
+ "modified": 1462474543.465,
+ "signs": {
+  "1LFZtNVd7PtbHn8Q7562xA66rFdbAVcFhb": "HIZNAsQD89KSwbgJgZHMFSfXOd1nWdeCXttWCz1pivKfbWZ8F9X7sadoLdBwIyYK/l24avVMWP1xyunNAX2ZSEQ="
+ }
+}
